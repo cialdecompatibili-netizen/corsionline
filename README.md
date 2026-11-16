@@ -4,3 +4,5 @@ Template stabile e adattivo per qualsiasi nuova repo (tutto automatico). Base: d
 
 Leggi [PROGETTO_TEMPLATE.md](PROGETTO_TEMPLATE.md).
 
+
+Brief del progetto (corsi informatici, 3 livelli): leggi [BRIEF.md](BRIEF.md).
